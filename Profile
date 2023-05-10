@@ -1,0 +1,279 @@
+profile
+
+
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Profile</title>
+
+</head>
+
+<body>
+
+    <div class="profile Name ">
+
+        <h2 class="profileName1">
+
+            <bold>Profile</bold>
+
+        </h2>
+
+        <p>I'm a Computer Science Engineer</p>
+
+    </div>
+
+    <div>
+
+     <img src="C:\Users\velmurugan\Desktop\yogesh\IMG-20230425-WA0042.jpg.jpg" alt="yogesh">
+
+    </div>
+
+    <div class="abt">
+
+        <h2>
+
+            <bold>About me</bold>
+
+        </h2>
+
+        <p>Myself Yogesh,I'm currently in my 3<sup>rd</sup> year of studying
+
+            BE Computer Science and Engineering at RVS Technical Campus Coimbatore.
+
+             I'm well knowledge in JAVA and Python.
+
+        </p>
+
+    </div>
+
+    <div class="dls">
+
+        <h2>Details</h2>
+
+        <h3>
+
+            <bold>Name:</bold>
+
+        </h3>
+
+        <p></p>Yogesh R</p>
+
+        <h3
+
+            <bold>Age:</bold>
+
+        </h3>
+
+        <p>20 years</p>
+
+        <h3>
+
+            <bold>Location:</bold>
+
+        </h3>
+
+        <p>Coimbatore,TamilNadu</p>
+
+    </div>
+
+    </div>
+
+</body>
+
+<style>
+
+    body {
+
+        text-align: center;
+
+    }
+
+    p {
+
+        font-size: 20px;
+
+    }
+
+    .profileName1 {
+
+        font-size: 40px;
+
+    }
+
+    img{
+
+        width:14%;
+
+        border-radius: 50%;
+
+    }
+
+    
+
+    div.abt {
+
+        background-color: rgb(243, 110, 21);
+
+        width: 450px;
+
+        padding: 15px;
+
+        padding-top: 15px;
+
+        margin: auto;
+
+        color: black;
+
+        font-family:italic;
+
+    }
+
+</style>
+
+</html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Profile</title>
+
+</head>
+
+<body>
+
+    <div class="profile Name ">
+
+        <h2 class="profileName1">
+
+            <bold>Profile</bold>
+
+        </h2>
+
+        <p>I'm a Computer Science Engineer</p>
+
+    </div>
+
+    <div>
+
+     <img src="C:\Users\velmurugan\Desktop\yogesh\IMG-20230425-WA0042.jpg.jpg" alt="yogesh">
+
+    </div>
+
+    <div class="abt">
+
+        <h2>
+
+            <bold>About me</bold>
+
+        </h2>
+
+        <p>Myself Yogesh,I'm currently in my 3<sup>rd</sup> year of studying
+
+            BE Computer Science and Engineering at RVS Technical Campus Coimbatore.
+
+             I'm well knowledge in JAVA and Python.
+
+        </p>
+
+    </div>
+
+    <div class="dls">
+
+        <h2>Details</h2>
+
+        <h3>
+
+            <bold>Name:</bold>
+
+        </h3>
+
+        <p></p>Yogesh R</p>
+
+        <h3
+
+            <bold>Age:</bold>
+
+        </h3>
+
+        <p>20 years</p>
+
+        <h3>
+
+            <bold>Location:</bold>
+
+        </h3>
+
+        <p>Coimbatore,TamilNadu</p>
+
+    </div>
+
+    </div>
+
+</body>
+
+<style>
+
+    body {
+
+        text-align: center;
+
+    }
+
+    p {
+
+        font-size: 20px;
+
+    }
+
+    .profileName1 {
+
+        font-size: 40px;
+
+    }
+
+    img{
+
+        width:14%;
+
+        border-radius: 50%;
+
+    }
+
+    
+
+    div.abt {
+
+        background-color: rgb(243, 110, 21);
+
+        width: 450px;
+
+        padding: 15px;
+
+        padding-top: 15px;
+
+        margin: auto;
+
+        color: black;
+
+        font-family:italic;
+
+    }
+
+</style>
+
+</html>
